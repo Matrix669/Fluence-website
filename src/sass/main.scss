@@ -516,6 +516,8 @@ body {
 	}
 	&__texts {
 		&--link {
+			color: $blackFont;
+			text-decoration: none;
 			padding: 0.5em;
 			border-bottom: 1px solid #f9f9f9;
 			&:hover {
