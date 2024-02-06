@@ -8,7 +8,7 @@ Uruchomienie strony:
   
 ## Moje przemyślenia
 ### Opis
-Stworzyłem tą stronę na podstawię mockup'u od kolegi.
+Stworzyłem tą stronę na podstawie mockup'u od kolegi.
 ### Do zmiany:
 - dodać wrappery w odpowiednich miejscach
 - dodać nawigację
