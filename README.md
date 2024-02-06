@@ -18,4 +18,4 @@ Stworzyłem tą stronę na podstawie mockup'u od kolegi.
 
 ### Problem:
 - był problem z sekcją "Case studies', ale udało się to naprawić poprzez dodanie odpowiednich marginesów do kontenera z kartami
-- był problem z tymi dwoma sekcjami wewnątrz <header>, ale koniec końców udało się ten problem rozwiązać poprzez dodanie odpowiednich właściwości: szerokość, padding, margin
+- był problem z tymi dwoma sekcjami wewnątrz `<header>`, ale koniec końców udało się ten problem rozwiązać poprzez dodanie odpowiednich właściwości: szerokość, padding, margin
