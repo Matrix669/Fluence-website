@@ -5,7 +5,7 @@ Instalowanie paczek:
 Uruchomienie strony:  
 `gulp`
 
-# fluence
+
 ### Do zmiany:
 - dodać wrappery w odpowiednich miejscach
 - dodać nawigację
