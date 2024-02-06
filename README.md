@@ -5,7 +5,8 @@ Instalowanie paczek:
 Uruchomienie strony:  
 `gulp`
 
-
+  
+## Moje przemyślenia
 ### Do zmiany:
 - dodać wrappery w odpowiednich miejscach
 - dodać nawigację
